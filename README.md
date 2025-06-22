@@ -1,14 +1,12 @@
-# Hey there! I'm fbratten 🚀
+Hey! 🚀 I'm Jack, a AI tinkerer automating everything that can be automated.
 
-I'm an AI tinkerer with a passion for automating everything that can be automated. As a multi-OS user, I'm comfortable in Windows, Linux, and macOS, and I believe in using the best tools for the job. I'm also a huge advocate for open source and love collaborating with the community to build amazing things.
+- 🎯 **Specialties:** Automation & DevOps, Open Source, Full-Stack Development + 4 more
+- ⚡ **Tech Stack:** Python, Bash, PowerShell, React, Node.js, Azure + more
+- 🔧 **Approach:** Automating everything that can be automated
 
-- 🎯 **Specialties:** Automation & DevOps, Open Source, Full-Stack Development, and AI/ML Engineering.
-- ⚡ **Tech Stack:** Python, Bash, PowerShell, React, Node.js, Azure, Docker, and Kubernetes.
-- 🔧 **Approach:** I focus on creating robust, self-healing systems and elegant, efficient code.
+## What I'm Building
 
-## What I’m Building
-
-I'm currently focused on building an adaptive creation engine—an agent framework where the AI learns continuously. This project also involves developing an AI interaction and workflow SaaS, a playground for self-healing systems, and an agent platform that uses federated learning for information retrieval.
+Agent framework and platform for creations - an adaptive creation engine where the AI learns continuously. An AI interaction and workflow SaaS. A playground for self-healing workflows. An agent platform using federate learning for info retrieval... Fun stuff!!! 
 
 ## GitHub Stats
 
