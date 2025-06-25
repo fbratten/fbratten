@@ -20,9 +20,6 @@ Agent framework and platform for creations - an adaptive creation engine where t
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbratten&layout=compact&theme=radical" alt="fbratten's Top Languages" /></td>
   </tr>
   <tr>
-    <td colspan="2"><img src="https://streak-stats.demolab.com?user=fbratten&theme=radical" alt="fbratten's GitHub Streak" /></td>
-  </tr>
-  <tr>
     <td colspan="2"><img src="https://github-readme-activity-graph.vercel.app/graph?username=fbratten&theme=radical" alt="fbratten's Activity Graph" /></td>
   </tr>
 </table>
