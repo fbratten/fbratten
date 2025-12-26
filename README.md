@@ -8,6 +8,8 @@ Hey! 🚀 I'm Jack, a AI tinkerer automating everything that can be automated.
 
 Agent framework and platform for creations - an adaptive creation engine where the AI learns continuously. An AI interaction and workflow SaaS. A playground for self-healing workflows. An agent platform using federate learning for info retrieval... Fun stuff!!! 
 
+Check implemented features of the AI system <a href="https://fbratten.github.io/spine-showcase/demos/">SPINE</a> for multi-agent management.
+
 ## 📊 My GitHub Stats
 
 <p align="center">
