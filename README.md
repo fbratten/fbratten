@@ -10,6 +10,15 @@ Agent framework and platform for creations - an adaptive creation engine where t
 
 Check implemented features of the AI system <a href="https://fbratten.github.io/spine-showcase/demos/">SPINE</a> for multi-agent management.
 
+Or some projects / products:
+
+<a href="https://fbratten.github.io/spine-showcase/">SPINE Showcase</a>
+
+<a href="https://fbratten.github.io/golden-thread-system/">Golden Thread System</a>
+
+<a href="https://fbratten.github.io/AI-Human-Admin-Dashboard/">AI-Human Admin Dashboard</a>
+
+
 ## 📊 My GitHub Stats
 
 <p align="center">
