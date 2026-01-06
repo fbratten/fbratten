@@ -12,7 +12,11 @@ Check implemented features of the AI system <a href="https://fbratten.github.io/
 
 Or some projects / products:
 
-<a href="https://fbratten.github.io/spine-showcase/">SPINE Showcase</a>
+<a href="https://fbratten.github.io/spine-showcase/">SPINE</a>
+
+<a href="https://fbratten.github.io/Security-Audit-MCP-Server-Showcase/">Security-Audit-MCP-Server</a>
+
+<a href="https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/">Adaptive-MCP-Orchestrator-Blueprint</a>
 
 <a href="https://fbratten.github.io/golden-thread-system/">Golden Thread System</a>
 
