@@ -48,11 +48,13 @@ Transform AI trial-and-error into consistent, time-saving workflows through a st
   <img src="https://komarev.com/ghpvc/?username=fbratten&label=Profile%20Views&color=blueviolet" alt="fbratten's Profile Views" />
 </p>
 
+<!--
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=fbratten&show_icons=true&theme=radical" alt="fbratten's GitHub Stats" /></td>
     <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbratten&layout=compact&theme=radical" alt="fbratten's Top Languages" /></td>
   </tr>
+  -->
   <tr>
     <td colspan="2"><img src="https://github-readme-activity-graph.vercel.app/graph?username=fbratten&theme=radical" alt="fbratten's Activity Graph" /></td>
   </tr>
