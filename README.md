@@ -10,8 +10,9 @@ I build **AI solutions** and **context engineering systems**. My work focuses on
 - 📖 Author of **"From Blueprint to Application"** - Enterprise Prompt Engineering Guide
 - 🛠️ Creating tools that bridge the gap between AI capabilities and enterprise needs
 
-Check implemented features of the AI system <a href="https://fbratten.github.io/spine-showcase/demos/">SPINE</a> for multi-agent management.
-Or some projects / products:
+Check implemented features of the AI system <a href="https://fbratten.github.io/spine-showcase/demos/">SPINE</a> for multi-agent management, or why not experience a couple of key concepts from my book - through some hands-on <a href="https://fbratten.github.io/From-Blueprint-to-Application/demos/">interactive tools</a>. 
+ 
+Some of my projects: 
 
 <a href="https://fbratten.github.io/spine-showcase/">SPINE</a>
 
