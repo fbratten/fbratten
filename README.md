@@ -50,6 +50,15 @@ Transform AI trial-and-error into consistent, time-saving workflows through a st
 </p>
 
 <!--
+  <!-- Tech Stack --
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+  <!-- Social --
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](your-url)
+-->
+
+<!--
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=fbratten&show_icons=true&theme=radical" alt="fbratten's GitHub Stats" /></td>
