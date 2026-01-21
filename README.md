@@ -27,6 +27,7 @@ Check implemented features and interactive showcases:
 - <a href="https://fbratten.github.io/spine-showcase/demos/">SPINE (multi-agent management demos)</a>
 - <a href="https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/demos/lab/">Adaptive MCP Orchestrator lab</a>, <a href="https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/demos/">Orchestrator demos</a>, and of its <a href="https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/projects02/">AI Assistant Integration</a>, plus <a href="https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/projects03/">MCP Meta-Router</a>
 - <a href="https://fbratten.github.io/From-Blueprint-to-Application/demos/">From Blueprint to Application (interactive tools)</a>
+- <a href="https://fbratten.github.io/music-video-creator-showcase/demos/">Music Video Creator</a>
 
 ---
 
