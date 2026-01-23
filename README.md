@@ -172,6 +172,11 @@ Dashboard for managing AI-human collaborative workflows and task coordination.
 📚 Technical Writing          ██████████████░░░░░░░░░░  60%
 ````
 
+## 📖 Also
+
+At: <a href="https://fbratten.github.io/">fbratten.github.io</a>
+
+
 ---
 
 ## 📊 My GitHub Stats
