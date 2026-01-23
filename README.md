@@ -26,7 +26,7 @@ Interactive showcases and implemented features:
 
 ### AI Orchestration & Context
 - **[SPINE](https://fbratten.github.io/spine-showcase/demos/)** - Multi-agent management demos
-- **[Adaptive MCP Orchestrator](https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/demos/lab/)** — [Lab](https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/demos/lab/) | [Demos](https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/demos/) | [AI Integration](https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/projects02/) | [Meta-Router](https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/projects03/)
+- **[Adaptive MCP Orchestrator](https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/demos/lab/)** - [Lab](https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/demos/lab/) | [Demos](https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/demos/) | [AI Integration](https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/projects02/) | [Meta-Router](https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/projects03/)
 - **[8me](https://fbratten.github.io/8me-showcase/)** - "8me autonomous loop toolkit", AI agent loops with 15 progressive labs
 - **[Minna](https://fbratten.github.io/spine-showcase/docs/minna-memory-integration.html)** - Cross-session memory integration
 
