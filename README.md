@@ -22,14 +22,19 @@ I build **enterprise AI solutions** and **context engineering systems** — focu
 
 ## 🧪 Demos & Hands-on
 
-Check implemented features and interactive showcases:
+Interactive showcases and implemented features:
 
-- <a href="https://fbratten.github.io/spine-showcase/demos/">SPINE (multi-agent management demos)</a>
-- <a href="https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/demos/lab/">Adaptive MCP Orchestrator lab</a>, <a href="https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/demos/">Orchestrator demos</a>, and of its <a href="https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/projects02/">AI Assistant Integration</a>, <a href="https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/projects03/">MCP Meta-Router</a>, 
-<a> plus last but NOT least</a>
-<a href="https://fbratten.github.io/spine-showcase/docs/minna-memory-integration.html">Minna (cross-session memory)</a>
-- <a href="https://fbratten.github.io/From-Blueprint-to-Application/demos/">From Blueprint to Application (interactive tools)</a>
-- <a href="https://fbratten.github.io/music-video-creator-showcase/demos/">Music Video Creator</a>
+### AI Orchestration & Context
+- **[SPINE](https://fbratten.github.io/spine-showcase/demos/)** — Multi-agent management demos
+- **[Adaptive MCP Orchestrator](https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/demos/lab/)** — [Lab](https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/demos/lab/) | [Demos](https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/demos/) | [AI Integration](https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/projects02/) | [Meta-Router](https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/projects03/)
+- **[8me](https://fbratten.github.io/8me-showcase/)** — AI agent loops with 15 progressive labs
+- **[Minna](https://fbratten.github.io/spine-showcase/docs/minna-memory-integration.html)** — Cross-session memory integration
+
+### Tools & Learning
+- **[From Blueprint to Application](https://fbratten.github.io/From-Blueprint-to-Application/demos/)** — Interactive prompt engineering tools
+
+### Creative
+- **[Music Video Creator](https://fbratten.github.io/music-video-creator-showcase/demos/)** — AI-powered visual generation
 
 ---
 
@@ -99,6 +104,28 @@ System for maintaining consistent narratives and context across complex AI inter
 </td>
 </tr>
 <tr>
+<td width="50%">
+
+### 🔄 8me Orchestration
+**AI Agent Loop Toolkit**
+
+Multi-tiered "Ralph Wiggum" methodology for persistent AI loops. MCP server, Claude Code skill, and 15 progressive labs.
+
+<a href="https://fbratten.github.io/8me-showcase/">Showcase</a> · <a href="https://github.com/fbratten/8me">Source</a>
+
+</td>
+<td width="50%">
+
+### 🎵 Music Video Creator
+**AI-Powered Visual Generation**
+
+Create reactive music visualizations with AI-generated imagery and audio-reactive effects.
+
+<a href="https://fbratten.github.io/music-video-creator-showcase/">Showcase</a>
+
+</td>
+</tr>
+<tr>
 <td colspan="2" align="center">
 
 ### 📊 AI-Human Admin Dashboard  
@@ -119,6 +146,9 @@ Dashboard for managing AI-human collaborative workflows and task coordination.
 <p align="center">
   <a href="https://fbratten.github.io/spine-showcase/">
     <img src="https://img.shields.io/badge/SPINE-Framework-blueviolet?style=for-the-badge" alt="SPINE"/>
+  </a>
+  <a href="https://fbratten.github.io/8me-showcase/">
+    <img src="https://img.shields.io/badge/8me-Orchestration-blue?style=for-the-badge" alt="8me"/>
   </a>
   <a href="https://fbratten.github.io/From-Blueprint-to-Application/">
     <img src="https://img.shields.io/badge/Book-From_Blueprint_to_Application-orange?style=for-the-badge&logo=bookstack" alt="Book"/>
@@ -167,7 +197,7 @@ Dashboard for managing AI-human collaborative workflows and task coordination.
 
 ---
 
-✨ **Let’s collaborate** on something amazing — collaborators and coffee chats are always welcome.
+<p align="center">✨ **Let’s collaborate** on something amazing — collaborators and coffee chats are always welcome.</p>
 
 <p align="center">
   <i>"The best time to master AI was yesterday. The second best time is today."</i>
