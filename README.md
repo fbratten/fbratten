@@ -144,6 +144,9 @@ Dashboard for managing AI-human collaborative workflows and task coordination.
 ## 🔗 Quick Links
 
 <p align="center">
+  <a href="https://adaptivearts.ai">
+    <img src="https://img.shields.io/badge/Adaptivearts.ai-Research-6366F1?style=for-the-badge" alt="Adaptivearts.ai"/>
+  </a>
   <a href="https://fbratten.github.io/spine-showcase/">
     <img src="https://img.shields.io/badge/SPINE-Framework-blueviolet?style=for-the-badge" alt="SPINE"/>
   </a>
@@ -197,8 +200,14 @@ Dashboard for managing AI-human collaborative workflows and task coordination.
 
 ---
 
-<p align="center">✨ **Let’s collaborate** on something amazing — collaborators and coffee chats are always welcome.</p>
+<p align="center">✨ **Let's collaborate** on something amazing — collaborators and coffee chats are always welcome.</p>
 
 <p align="center">
   <i>"The best time to master AI was yesterday. The second best time is today."</i>
+</p>
+
+---
+
+<p align="center">
+  <sub>Projects released as part of <a href="https://adaptivearts.ai"><b>Adaptivearts.ai™</b></a></sub>
 </p>
