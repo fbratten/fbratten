@@ -8,10 +8,10 @@
 
 ## 🚀 About Me
 
-I build **enterprise AI solutions** and **context engineering systems** — focused on making AI practical, secure, and scalable for real-world applications.
+I build **enterprise AI solutions** and **context engineering systems** - focused on making AI practical, secure, and scalable for real-world applications.
 
 - 🔭 Currently working on **AI orchestration frameworks** and **prompt engineering best practices**
-- 📖 Author of **"From Blueprint to Application"** — Enterprise Prompt Engineering Guide
+- 📖 Author of **"From Blueprint to Application"** - Enterprise Prompt Engineering Guide
 - 🛠️ Creating tools that bridge the gap between AI capabilities and enterprise needs
 - 🔧 **Approach:** Automating everything that can be automated
 
@@ -25,16 +25,16 @@ I build **enterprise AI solutions** and **context engineering systems** — focu
 Interactive showcases and implemented features:
 
 ### AI Orchestration & Context
-- **[SPINE](https://fbratten.github.io/spine-showcase/demos/)** — Multi-agent management demos
+- **[SPINE](https://fbratten.github.io/spine-showcase/demos/)** - Multi-agent management demos
 - **[Adaptive MCP Orchestrator](https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/demos/lab/)** — [Lab](https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/demos/lab/) | [Demos](https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/demos/) | [AI Integration](https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/projects02/) | [Meta-Router](https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/projects03/)
-- **[8me](https://fbratten.github.io/8me-showcase/)** — "8me autonomous loop toolkit", AI agent loops with 15 progressive labs
-- **[Minna](https://fbratten.github.io/spine-showcase/docs/minna-memory-integration.html)** — Cross-session memory integration
+- **[8me](https://fbratten.github.io/8me-showcase/)** - "8me autonomous loop toolkit", AI agent loops with 15 progressive labs
+- **[Minna](https://fbratten.github.io/spine-showcase/docs/minna-memory-integration.html)** - Cross-session memory integration
 
 ### Tools & Learning
-- **[From Blueprint to Application](https://fbratten.github.io/From-Blueprint-to-Application/demos/)** — Interactive prompt engineering tools
+- **[From Blueprint to Application](https://fbratten.github.io/From-Blueprint-to-Application/demos/)** - Interactive prompt engineering tools
 
 ### Creative
-- **[Music Video Creator](https://fbratten.github.io/music-video-creator-showcase/demos/)** — AI-powered visual generation
+- **[Music Video Creator](https://fbratten.github.io/music-video-creator-showcase/demos/)** - AI-powered visual generation
 
 ---
 
@@ -200,7 +200,7 @@ Dashboard for managing AI-human collaborative workflows and task coordination.
 
 ---
 
-<p align="center">✨ **Let's collaborate** on something amazing — collaborators and coffee chats are always welcome.</p>
+<p align="center">✨ **Let's collaborate** on something amazing - collaborators and coffee chats are always welcome.</p>
 
 <p align="center">
   <i>"The best time to master AI was yesterday. The second best time is today."</i>
