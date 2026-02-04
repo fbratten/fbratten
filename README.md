@@ -15,7 +15,7 @@ I build **enterprise AI solutions** and **context engineering systems** - focuse
 - 🛠️ Creating tools that bridge the gap between AI capabilities and enterprise needs
 - 🔧 **Approach:** Automating everything that can be automated
 
-**Specialties:** Automation & DevOps, Open Source, Full-Stack Development + more  
+**Specialties:** Automation & DevOps, Open Source, Full-Stack Development + more
 **Tech Stack:** Python, Bash, PowerShell, React, Node.js, Azure + more
 
 ---
@@ -28,6 +28,7 @@ Interactive showcases and implemented features:
 - **[SPINE](https://fbratten.github.io/spine-showcase/demos/)** - Multi-agent management demos
 - **[Adaptive MCP Orchestrator](https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/demos/lab/)** - [Lab](https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/demos/lab/) | [Demos](https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/demos/) | [AI Integration](https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/projects02/) | [Meta-Router](https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/projects03/)
 - **[8me](https://fbratten.github.io/8me-showcase/)** - "8me autonomous loop toolkit", AI agent loops with 15 progressive labs
+- **[agentspool](https://fbratten.github.io/agentspool-showcase/)** - Inter-agent communication with SQLite spool and HTTP relay
 - **[Minna](https://fbratten.github.io/spine-showcase/docs/minna-memory-integration.html)** - Cross-session memory integration
 
 ### Tools & Learning
@@ -62,7 +63,7 @@ Transform AI trial-and-error into consistent, time-saving workflows through a st
 <tr>
 <td width="50%">
 
-### 🔧 SPINE  
+### 🔧 SPINE
 **Context Engineering & Multi-Agent Backbone**
 
 A tiered protocol for AI orchestration with subagent coordination, scenario configs, and atomic tooling.
@@ -72,7 +73,7 @@ A tiered protocol for AI orchestration with subagent coordination, scenario conf
 </td>
 <td width="50%">
 
-### 🎯 Adaptive MCP Orchestrator Blueprint  
+### 🎯 Adaptive MCP Orchestrator Blueprint
 **Dynamic AI Service Coordination**
 
 Blueprint for adaptive orchestration of multiple MCP servers with intelligent routing.
@@ -84,7 +85,7 @@ Blueprint for adaptive orchestration of multiple MCP servers with intelligent ro
 <tr>
 <td width="50%">
 
-### 🔒 Security Audit MCP Server  
+### 🔒 Security Audit MCP Server
 **Automated Security Analysis**
 
 MCP server for comprehensive security auditing of codebases and configurations.
@@ -94,7 +95,7 @@ MCP server for comprehensive security auditing of codebases and configurations.
 </td>
 <td width="50%">
 
-### 🧵 Golden Thread System  
+### 🧵 Golden Thread System
 **Narrative Coherence Framework**
 
 System for maintaining consistent narratives and context across complex AI interactions.
@@ -126,9 +127,19 @@ Create reactive music visualizations with AI-generated imagery and audio-reactiv
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center">
+<td width="50%">
 
-### 📊 AI-Human Admin Dashboard  
+### 💬 agentspool
+**Inter-agent Communication**
+
+SQLite-backed message spool with HMAC-authenticated HTTP relay for N-to-N AI agent coordination. MCP server with 14 tools.
+
+<a href="https://fbratten.github.io/agentspool-showcase/">Showcase</a> · <a href="https://github.com/fbratten/agentspool">Source</a>
+
+</td>
+<td width="50%">
+
+### 📊 AI-Human Admin Dashboard
 **Collaboration Interface**
 
 Dashboard for managing AI-human collaborative workflows and task coordination.
@@ -153,6 +164,9 @@ Dashboard for managing AI-human collaborative workflows and task coordination.
   <a href="https://fbratten.github.io/8me-showcase/">
     <img src="https://img.shields.io/badge/8me-Orchestration-blue?style=for-the-badge" alt="8me"/>
   </a>
+  <a href="https://fbratten.github.io/agentspool-showcase/">
+    <img src="https://img.shields.io/badge/agentspool-Communication-0EA5E9?style=for-the-badge" alt="agentspool"/>
+  </a>
   <a href="https://fbratten.github.io/From-Blueprint-to-Application/">
     <img src="https://img.shields.io/badge/Book-From_Blueprint_to_Application-orange?style=for-the-badge&logo=bookstack" alt="Book"/>
   </a>
@@ -170,7 +184,7 @@ Dashboard for managing AI-human collaborative workflows and task coordination.
 🏗️ Context Engineering        ██████████████████░░░░░░  75%
 🔧 MCP Servers & Tools        ████████████████░░░░░░░░  65%
 📚 Technical Writing          ██████████████░░░░░░░░░░  60%
-````
+```
 
 ## 📖 Also
 
