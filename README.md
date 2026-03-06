@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://fbratten.github.io/"><img src="https://img.shields.io/badge/fbratten.github.io-Portfolio-6366F1?style=for-the-badge&logo=github" alt="Portfolio"/></a>
-  <a href="https://adaptivearts.ai"><img src="https://img.shields.io/badge/adaptivearts.ai-Articles-blueviolet?style=for-the-badge" alt="Adaptivearts.ai"/></a>
+  <a href="https://adaptivearts.ai/blog"><img src="https://img.shields.io/badge/adaptivearts.ai-Articles-blueviolet?style=for-the-badge" alt="Adaptivearts.ai"/></a>
 </p>
 
 <p align="center">
@@ -109,7 +109,7 @@ Transform AI trial-and-error into consistent, time-saving workflows through a st
 ## 🔗 Quick Links
 
 <p align="center">
-  <a href="https://adaptivearts.ai">
+  <a href="https://adaptivearts.ai/blog">
     <img src="https://img.shields.io/badge/Adaptivearts.ai-Research-6366F1?style=for-the-badge" alt="Adaptivearts.ai"/>
   </a>
   <a href="https://fbratten.github.io/spine-showcase/">
@@ -143,9 +143,9 @@ Transform AI trial-and-error into consistent, time-saving workflows through a st
 
 ## 📖 Writing
 
-- **[Creative Engines](https://adaptivearts.ai/blog/creative-engines-helicopter-view)** — 7-article series on architecting AI systems that generate excellence, not slop
+- **[Creative Engines](https://adaptivearts.ai/blog/blog/creative-engines-helicopter-view)** — 7-article series on architecting AI systems that generate excellence, not slop
 - **[From Blueprint to Application](https://fbratten.github.io/From-Blueprint-to-Application/)** — Enterprise Prompt Engineering Guide
-- More at [adaptivearts.ai](https://adaptivearts.ai) and [fbratten.github.io](https://fbratten.github.io/)
+- More at [adaptivearts.ai](https://adaptivearts.ai/blog) and [fbratten.github.io](https://fbratten.github.io/)
 
 
 ---
@@ -185,5 +185,5 @@ Transform AI trial-and-error into consistent, time-saving workflows through a st
 ---
 
 <p align="center">
-  <sub>Projects released as part of <a href="https://adaptivearts.ai"><b>Adaptivearts.ai™</b></a></sub>
+  <sub>Projects released as part of <a href="https://adaptivearts.ai/blog"><b>Adaptivearts.ai™</b></a></sub>
 </p>
