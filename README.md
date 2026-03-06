@@ -63,33 +63,33 @@ Transform AI trial-and-error into consistent, time-saving workflows through a st
 
 | Project | What it does | |
 |---------|-------------|---|
-| **[SPINE](https://github.com/fbratten/spine)** | Context Engineering backbone — AgenticLoop, ContentPipelineExecutor, tiered protocol | [![Tests](https://img.shields.io/badge/tests-175-brightgreen.svg)](https://fbratten.github.io/spine-showcase/) |
-| **[content-mcp](https://github.com/fbratten/content-mcp)** | Multi-media orchestration — 41 tools, 11 providers, Prompt Contracts, fal.ai video | [![Tests](https://img.shields.io/badge/tests-589-brightgreen.svg)](https://fbratten.github.io/content-mcp-showcase/) |
-| **[content-analyzer-mcp](https://github.com/fbratten/content-analyzer-mcp)** | Aesthetic classifier, gap analysis, Isolation Forest anomaly detection | ![Tests](https://img.shields.io/badge/tests-220-brightgreen.svg) |
-| **[Intelligence Engine](https://github.com/fbratten/intelligence-engine)** | Code knowledge graph — KuzuDB, 38+ projects indexed, Cypher queries | [![Showcase](https://img.shields.io/badge/showcase-live-blue.svg)](https://fbratten.github.io/intelligence-engine-showcase/) |
+| **SPINE** | Context Engineering backbone — AgenticLoop, ContentPipelineExecutor, tiered protocol | [![Showcase](https://img.shields.io/badge/showcase-live-blue.svg)](https://fbratten.github.io/spine-showcase/) |
+| **content-mcp** | Multi-media orchestration — 41 tools, 11 providers, Prompt Contracts, fal.ai video | ![Tests](https://img.shields.io/badge/tests-589-brightgreen.svg) |
+| **content-analyzer-mcp** | Aesthetic classifier, gap analysis, Isolation Forest anomaly detection | ![Tests](https://img.shields.io/badge/tests-220-brightgreen.svg) |
+| **Intelligence Engine** | Code knowledge graph — KuzuDB, 38+ projects indexed, Cypher queries | [![Showcase](https://img.shields.io/badge/showcase-live-blue.svg)](https://fbratten.github.io/intelligence-engine-showcase/) |
 
 ### Music Production Pipeline
 
 | Project | What it does | |
 |---------|-------------|---|
-| **[flow-musical-creation](https://github.com/fbratten/flow-musical-creation)** | 12-song AI musical, 4 Claude Skills, Suno 5.0 integration | ![Python](https://img.shields.io/badge/python-3.10+-blue.svg) |
-| **[the-musicologist-mcp](https://github.com/fbratten/the-musicologist-mcp)** | Domain knowledge MCP — 17 tools, review rubric, style builder, lyrics parser | ![Tests](https://img.shields.io/badge/tests-110-brightgreen.svg) |
-| **[suno-mcp](https://github.com/fbratten/suno-mcp)** | Suno AI music generation MCP — generate, review, download songs | ![MCP](https://img.shields.io/badge/MCP-tools-purple.svg) |
+| **flow-musical-creation** | 12-song AI musical, 4 Claude Skills, Suno 5.0 integration | ![Python](https://img.shields.io/badge/python-3.10+-blue.svg) |
+| **the-musicologist-mcp** | Domain knowledge MCP — 17 tools, review rubric, style builder, lyrics parser | ![Tests](https://img.shields.io/badge/tests-110-brightgreen.svg) |
+| **suno-mcp** | Suno AI music generation MCP — generate, review, download songs | ![MCP](https://img.shields.io/badge/MCP-tools-purple.svg) |
 | **[Music Video Creator](https://fbratten.github.io/music-video-creator-showcase/)** | AI-powered visual generation with audio-reactive effects | [![Showcase](https://img.shields.io/badge/showcase-live-blue.svg)](https://fbratten.github.io/music-video-creator-showcase/) |
 
 ### Cognitive Reasoning
 
 | Project | What it does | |
 |---------|-------------|---|
-| **[observation-workbench](https://github.com/fbratten/observation-workbench)** | Recursive reasoning — 248 templates, route resolver, avenue proposal | ![Tests](https://img.shields.io/badge/tests-308-brightgreen.svg) |
+| **observation-workbench** | Recursive reasoning — 248 templates, route resolver, avenue proposal | ![Tests](https://img.shields.io/badge/tests-308-brightgreen.svg) |
 
 ### AI Meta-Tooling
 
 | Project | What it does | |
 |---------|-------------|---|
-| **[agents-mcp-mgmnt](https://github.com/fbratten/agents-mcp-mgmnt-code-to-call-tools)** | Progressive MCP tool disclosure — 87% token savings measured | ![MCP](https://img.shields.io/badge/MCP-tools-purple.svg) |
-| **[mcp-builder-mcp](https://github.com/fbratten/mcp-builder-mcp)** | Meta-MCP — generates new MCP servers from patterns and log analysis | ![MCP](https://img.shields.io/badge/MCP-tools-purple.svg) |
-| **[Minna Memory](https://github.com/fbratten/Mem-System-lite-MCP)** | Lightweight AI memory — SQLite + FTS5, 16 tools, 5 entity types | ![MCP](https://img.shields.io/badge/MCP-16_tools-purple.svg) |
+| **agents-mcp-mgmnt** | Progressive MCP tool disclosure — 87% token savings measured | ![MCP](https://img.shields.io/badge/MCP-tools-purple.svg) |
+| **mcp-builder-mcp** | Meta-MCP — generates new MCP servers from patterns and log analysis | ![MCP](https://img.shields.io/badge/MCP-tools-purple.svg) |
+| **Minna Memory** | Lightweight AI memory — SQLite + FTS5, 16 tools, 5 entity types | ![MCP](https://img.shields.io/badge/MCP-16_tools-purple.svg) |
 
 ### Agent Communication & Loops
 
