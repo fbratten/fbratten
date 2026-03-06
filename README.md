@@ -57,98 +57,47 @@ Transform AI trial-and-error into consistent, time-saving workflows through a st
 
 ---
 
-## 🛠️ Projects & Frameworks
+## 🛠️ Projects — 5 Clusters, 23+ MCP Servers
 
-<table>
-<tr>
-<td width="50%">
+### Content Pipeline Infrastructure
 
-### 🔧 SPINE
-**Context Engineering & Multi-Agent Backbone**
+| Project | What it does | |
+|---------|-------------|---|
+| **[SPINE](https://github.com/fbratten/spine)** | Context Engineering backbone — AgenticLoop, ContentPipelineExecutor, tiered protocol | [![Tests](https://img.shields.io/badge/tests-175-brightgreen.svg)](https://fbratten.github.io/spine-showcase/) |
+| **[content-mcp](https://github.com/fbratten/content-mcp)** | Multi-media orchestration — 41 tools, 11 providers, Prompt Contracts, fal.ai video | [![Tests](https://img.shields.io/badge/tests-589-brightgreen.svg)](https://fbratten.github.io/content-mcp-showcase/) |
+| **[content-analyzer-mcp](https://github.com/fbratten/content-analyzer-mcp)** | Aesthetic classifier, gap analysis, Isolation Forest anomaly detection | ![Tests](https://img.shields.io/badge/tests-220-brightgreen.svg) |
+| **[Intelligence Engine](https://github.com/fbratten/intelligence-engine)** | Code knowledge graph — KuzuDB, 38+ projects indexed, Cypher queries | [![Showcase](https://img.shields.io/badge/showcase-live-blue.svg)](https://fbratten.github.io/intelligence-engine-showcase/) |
 
-A tiered protocol for AI orchestration with subagent coordination, scenario configs, and atomic tooling.
+### Music Production Pipeline
 
-<a href="https://fbratten.github.io/spine-showcase/">Showcase</a>
+| Project | What it does | |
+|---------|-------------|---|
+| **[flow-musical-creation](https://github.com/fbratten/flow-musical-creation)** | 12-song AI musical, 4 Claude Skills, Suno 5.0 integration | ![Python](https://img.shields.io/badge/python-3.10+-blue.svg) |
+| **[the-musicologist-mcp](https://github.com/fbratten/the-musicologist-mcp)** | Domain knowledge MCP — 17 tools, review rubric, style builder, lyrics parser | ![Tests](https://img.shields.io/badge/tests-110-brightgreen.svg) |
+| **[suno-mcp](https://github.com/fbratten/suno-mcp)** | Suno AI music generation MCP — generate, review, download songs | ![MCP](https://img.shields.io/badge/MCP-tools-purple.svg) |
+| **[Music Video Creator](https://fbratten.github.io/music-video-creator-showcase/)** | AI-powered visual generation with audio-reactive effects | [![Showcase](https://img.shields.io/badge/showcase-live-blue.svg)](https://fbratten.github.io/music-video-creator-showcase/) |
 
-</td>
-<td width="50%">
+### Cognitive Reasoning
 
-### 🎯 Adaptive MCP Orchestrator Blueprint
-**Dynamic AI Service Coordination**
+| Project | What it does | |
+|---------|-------------|---|
+| **[observation-workbench](https://github.com/fbratten/observation-workbench)** | Recursive reasoning — 248 templates, route resolver, avenue proposal | ![Tests](https://img.shields.io/badge/tests-308-brightgreen.svg) |
 
-Blueprint for adaptive orchestration of multiple MCP servers with intelligent routing.
+### AI Meta-Tooling
 
-<a href="https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/">Showcase</a>
+| Project | What it does | |
+|---------|-------------|---|
+| **[agents-mcp-mgmnt](https://github.com/fbratten/agents-mcp-mgmnt-code-to-call-tools)** | Progressive MCP tool disclosure — 87% token savings measured | ![MCP](https://img.shields.io/badge/MCP-tools-purple.svg) |
+| **[mcp-builder-mcp](https://github.com/fbratten/mcp-builder-mcp)** | Meta-MCP — generates new MCP servers from patterns and log analysis | ![MCP](https://img.shields.io/badge/MCP-tools-purple.svg) |
+| **[Minna Memory](https://github.com/fbratten/Mem-System-lite-MCP)** | Lightweight AI memory — SQLite + FTS5, 16 tools, 5 entity types | ![MCP](https://img.shields.io/badge/MCP-16_tools-purple.svg) |
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+### Agent Communication & Loops
 
-### 🔒 Security Audit MCP Server
-**Automated Security Analysis**
-
-MCP server for comprehensive security auditing of codebases and configurations.
-
-<a href="https://fbratten.github.io/Security-Audit-MCP-Server-Showcase/">Showcase</a>
-
-</td>
-<td width="50%">
-
-### 🧵 Golden Thread System
-**Narrative Coherence Framework**
-
-System for maintaining consistent narratives and context across complex AI interactions.
-
-<a href="https://fbratten.github.io/golden-thread-system/">Showcase</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔄 8me Orchestration
-**AI Agent Loop Toolkit**
-
-Multi-tiered "Ralph Wiggum" methodology for persistent AI loops. MCP server, Claude Code skill, and 15 progressive labs.
-
-<a href="https://fbratten.github.io/8me-showcase/">Showcase</a> · <a href="https://github.com/fbratten/8me">Source</a>
-
-</td>
-<td width="50%">
-
-### 🎵 Music Video Creator
-**AI-Powered Visual Generation**
-
-Create reactive music visualizations with AI-generated imagery and audio-reactive effects.
-
-<a href="https://fbratten.github.io/music-video-creator-showcase/">Showcase</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💬 agentspool
-**Inter-agent Communication**
-
-SQLite-backed message spool with HMAC-authenticated HTTP relay for N-to-N AI agent coordination. MCP server with 14 tools.
-
-<a href="https://fbratten.github.io/agentspool-showcase/">Showcase</a> · <a href="https://github.com/fbratten/agentspool">Source</a>
-
-</td>
-<td width="50%">
-
-### 📊 AI-Human Admin Dashboard
-**Collaboration Interface**
-
-Dashboard for managing AI-human collaborative workflows and task coordination.
-
-<a href="https://fbratten.github.io/AI-Human-Admin-Dashboard/">Showcase</a>
-
-</td>
-</tr>
-</table>
+| Project | What it does | |
+|---------|-------------|---|
+| **[8me](https://github.com/fbratten/8me)** | AI agent loop toolkit — persistent loops, 15 progressive labs | [![Showcase](https://img.shields.io/badge/showcase-live-blue.svg)](https://fbratten.github.io/8me-showcase/) |
+| **[agentspool](https://github.com/fbratten/agentspool)** | Inter-agent communication — SQLite spool, HMAC relay, 14 tools | [![Showcase](https://img.shields.io/badge/showcase-live-blue.svg)](https://fbratten.github.io/agentspool-showcase/) |
+| **[Adaptive MCP Orchestrator](https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/)** | Dynamic orchestration of multiple MCP servers with intelligent routing | [![Showcase](https://img.shields.io/badge/showcase-live-blue.svg)](https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/) |
 
 ---
 
@@ -180,15 +129,18 @@ Dashboard for managing AI-human collaborative workflows and task coordination.
 ## 📈 Focus Areas
 
 ```text
-🤖 AI & Prompt Engineering    ████████████████████░░░░  85%
-🏗️ Context Engineering        ██████████████████░░░░░░  75%
-🔧 MCP Servers & Tools        ████████████████░░░░░░░░  65%
-📚 Technical Writing          ██████████████░░░░░░░░░░  60%
+🤖 AI & Context Engineering   ████████████████████░░░░  85%
+🔧 MCP Servers (23+ built)    ██████████████████░░░░░░  75%
+🏗️ Multi-Agent Orchestration  ████████████████░░░░░░░░  65%
+🎵 AI Music & Video Pipelines ██████████████░░░░░░░░░░  60%
+📚 Technical Writing          ████████████░░░░░░░░░░░░  50%
 ```
 
-## 📖 Also
+## 📖 Writing
 
-At: <a href="https://fbratten.github.io/">fbratten.github.io</a>
+- **[Creative Engines](https://adaptivearts.ai/blog/creative-engines-helicopter-view)** — 7-article series on architecting AI systems that generate excellence, not slop
+- **[From Blueprint to Application](https://fbratten.github.io/From-Blueprint-to-Application/)** — Enterprise Prompt Engineering Guide
+- More at [adaptivearts.ai](https://adaptivearts.ai) and [fbratten.github.io](https://fbratten.github.io/)
 
 
 ---
