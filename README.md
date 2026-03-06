@@ -1,6 +1,11 @@
 # Hi, I'm Fredrik Brattén 👋
 
 <p align="center">
+  <a href="https://fbratten.github.io/"><img src="https://img.shields.io/badge/fbratten.github.io-Portfolio-6366F1?style=for-the-badge&logo=github" alt="Portfolio"/></a>
+  <a href="https://adaptivearts.ai"><img src="https://img.shields.io/badge/adaptivearts.ai-Articles-blueviolet?style=for-the-badge" alt="Adaptivearts.ai"/></a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=AI+%26+Prompt+Engineering+Aficionado;Context+Engineering+Architect;Building+Enterprise+AI+Solutions" alt="Typing SVG" />
 </p>
 
