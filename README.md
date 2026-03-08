@@ -77,9 +77,8 @@ Transform AI trial-and-error into consistent, time-saving workflows through a st
 
 | Project | What it does | |
 |---------|-------------|---|
-| **flow-musical-creation** | 12-song AI musical, 4 Claude Skills, Suno 5.0 integration | ![Python](https://img.shields.io/badge/python-3.10+-blue.svg) |
+| **flow-musical-creation** | 12-song AI musical, 4 Claude Skills | ![Python](https://img.shields.io/badge/python-3.10+-blue.svg) |
 | **the-musicologist-mcp** | Domain knowledge MCP — 17 tools, review rubric, style builder, lyrics parser | ![Tests](https://img.shields.io/badge/tests-110-brightgreen.svg) |
-| **suno-mcp** | Suno AI music generation MCP — generate, review, download songs | ![MCP](https://img.shields.io/badge/MCP-tools-purple.svg) |
 | **[Music Video Creator](https://fbratten.github.io/music-video-creator-showcase/)** | AI-powered visual generation with audio-reactive effects | [![Showcase](https://img.shields.io/badge/showcase-live-blue.svg)](https://fbratten.github.io/music-video-creator-showcase/) |
 
 ### Cognitive Reasoning
@@ -187,3 +186,4 @@ Transform AI trial-and-error into consistent, time-saving workflows through a st
 <p align="center">
   <sub>Projects released as part of <a href="https://adaptivearts.ai/blog"><b>Adaptivearts.ai™</b></a></sub>
 </p>
+
