@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://fbratten.github.io/spine-showcase/"><img src="https://img.shields.io/badge/SPINE-Showcase-6366F1?style=for-the-badge" alt="SPINE"/></a>
   <a href="https://fbratten.github.io/From-Blueprint-to-Application/"><img src="https://img.shields.io/badge/Book-From_Blueprint_to_Application-orange?style=for-the-badge" alt="Book"/></a>
-  <a href="https://adaptivearts.ai/blog"><img src="https://img.shields.io/badge/AdaptiveArts.ai-Research-blueviolet?style=for-the-badge" alt="Research"/></a>
+  <a href="https://adaptivearts.ai/blog"><img src="https://img.shields.io/badge/Adaptivearts.ai-Research-blueviolet?style=for-the-badge" alt="Research"/></a>
 </p>
 
 ---
@@ -88,7 +88,7 @@ All self-contained, no API keys needed:
 
 20+ years across IT operations, systems architecture, cybersecurity, and DevOps. SOC analysis, XDR integration, high-availability infrastructure for regulated environments (gaming, finance). This shapes everything I build — auditable, traceable, designed for environments where things must not fail silently.
 
-Founder of [AdaptiveArts.ai](https://adaptivearts.ai/blog) — independent research in applied GenAI, autonomous agent architecture, and context engineering.
+Founder of [Adaptivearts.ai](https://adaptivearts.ai/blog) — independent research in applied GenAI, autonomous agent architecture, and context engineering.
 
 Currently: making the system eat its own dog food, and preparing to open-source the backbone.
 
@@ -99,5 +99,5 @@ Currently: making the system eat its own dog food, and preparing to open-source 
 </p>
 
 <p align="center">
-  <sub>Built with SPINE · <a href="https://adaptivearts.ai">AdaptiveArts.ai</a></sub>
+  <sub>Built with SPINE · <a href="https://adaptivearts.ai">Adaptivearts.ai</a></sub>
 </p>
