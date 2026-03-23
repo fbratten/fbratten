@@ -88,7 +88,7 @@ All self-contained, no API keys needed:
 
 20+ years across IT operations, systems architecture, cybersecurity, and DevOps. SOC analysis, XDR integration, high-availability infrastructure for regulated environments (gaming, finance). This shapes everything I build — auditable, traceable, designed for environments where things must not fail silently.
 
-Founder of [Adaptivearts.ai](https://adaptivearts.ai/blog) — independent research in applied GenAI, autonomous agent architecture, and context engineering.
+Founder of [Adaptivearts.ai](https://adaptivearts.ai/) — independent research in applied GenAI, autonomous agent architecture, and context engineering.
 
 Currently: making the system eat its own dog food, and preparing to open-source the backbone.
 
