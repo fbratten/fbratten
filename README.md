@@ -1,4 +1,3 @@
-# Fredrik Brattén
 
 **I build the infrastructure that makes AI agents remember, coordinate, and improve.**
 
