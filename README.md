@@ -78,6 +78,8 @@ All self-contained, no API keys needed.
 | [Adaptive MCP Orchestrator](https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/) | Cognitive task dispatcher | Architecture demos |
 | [Security Audit MCP](https://fbratten.github.io/Security-Audit-MCP-Server-Showcase/) | 5 security scanners, Docker-isolated | Stack Detector, Secret Scanner |
 | [Music Video Creator](https://fbratten.github.io/music-video-creator-showcase/) | 19 visual styles, audio analysis | Style Showcase, Beat Effects |
+| [switchcore](https://fbratten.github.io/switchcore-showcase/) | MCP Meta-Router, smart tool routing | Tool cards, architecture |
+| [vigil](https://fbratten.github.io/vigil-showcase/) | Self-scheduling follow-up server | Tools, check types, notifications |
 
 ---
 
@@ -99,7 +101,7 @@ A 90-day journey from first prompt to production AI systems. 12 chapters across 
 | [Few-Shot Builder](https://fbratten.github.io/From-Blueprint-to-Application/demos/few-shot-builder/) | Few-shot learning patterns |
 | [MCP Server Setup](https://fbratten.github.io/From-Blueprint-to-Application/demos/mcp-server-setup/) | Building your first MCP server |
 | [Five-Point Protocol](https://fbratten.github.io/From-Blueprint-to-Application/demos/five-point-protocol/) | Structured execution framework |
-| [Security Assessment](https://fbratten.github.io/From-Blueprint-to-Application/demos/security-assessment/) | AI security evaluation |
+| [Security Assessment](https://fbratten.github.io/From-Blueprint-to-Application/demos/security-assessment-agent/) | AI security evaluation |
 
 > [Browse the book site](https://fbratten.github.io/From-Blueprint-to-Application/)
 
