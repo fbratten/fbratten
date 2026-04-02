@@ -74,7 +74,7 @@ All self-contained, no API keys needed.
 |----------|------|-------|
 | [SPINE Framework](https://fbratten.github.io/spine-showcase/) | Multi-agent orchestration, 7-tier memory, OODA loops | 11+ interactive demos |
 | [Intelligence Engine](https://fbratten.github.io/intelligence-engine-showcase/) | Code knowledge graphs, hybrid search | Search Picker, Cypher Console |
-| [MCP Server Checker](https://fbratten.github.io/mcp-checker-mcp-showcase/) | Protocol compliance, quality validation | Profile Simulator |
+| [arbiter](https://fbratten.github.io/arbiter-showcase/) | MCP Server Validator - protocol compliance, quality, LLM ergonomics | Profile Simulator |
 | [8me Learning Platform](https://fbratten.github.io/8me-showcase/) | Loop orchestration curriculum | 15 progressive labs |
 | [agentspool](https://fbratten.github.io/agentspool-showcase/) | Inter-agent messaging | Network Graph, Message Flow, Radar |
 | [Adaptive MCP Orchestrator](https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/) | Cognitive task dispatcher | Architecture demos |
