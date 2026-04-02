@@ -82,6 +82,8 @@ All self-contained, no API keys needed.
 | [Music Video Creator](https://fbratten.github.io/music-video-creator-showcase/) | 19 visual styles, audio analysis | Style Showcase, Beat Effects |
 | [switchcore](https://fbratten.github.io/switchcore-showcase/) | MCP Meta-Router, smart tool routing | Tool cards, architecture |
 | [vigil](https://fbratten.github.io/vigil-showcase/) | Self-scheduling follow-up server | Tools, check types, notifications |
+| [arbiter](https://fbratten.github.io/arbiter-showcase/) | MCP Server Validator, 4 profiles | Profiles, fix packs, checks |
+| [spawn](https://fbratten.github.io/spawn-showcase/) | Meta-MCP: builds MCP servers from patterns | Architecture, scoring, pipeline |
 
 ---
 
