@@ -3,6 +3,8 @@
 
 <p align="center">
   <a href="https://fbratten.github.io/spine-showcase/"><img src="https://img.shields.io/badge/SPINE-Showcase-6366F1?style=for-the-badge" alt="SPINE"/></a>
+  <a href="https://fbratten.github.io/8me-showcase/"><img src="https://img.shields.io/badge/8me-Labs-blue?style=for-the-badge" alt="8me"/></a>
+  <a href="https://fbratten.github.io/intelligence-engine-showcase/"><img src="https://img.shields.io/badge/IE-Knowledge_Graphs-00ccaa?style=for-the-badge" alt="Intelligence Engine"/></a>
   <a href="https://fbratten.github.io/From-Blueprint-to-Application/"><img src="https://img.shields.io/badge/Book-From_Blueprint_to_Application-orange?style=for-the-badge" alt="Book"/></a>
   <a href="https://adaptivearts.ai/blog"><img src="https://img.shields.io/badge/Adaptivearts.ai-Research-blueviolet?style=for-the-badge" alt="Research"/></a>
 </p>
