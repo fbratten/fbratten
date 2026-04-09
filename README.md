@@ -73,16 +73,15 @@ All self-contained, no API keys needed.
 | Showcase | What | Demos |
 |----------|------|-------|
 | [SPINE Framework](https://fbratten.github.io/spine-showcase/) | Multi-agent orchestration, 7-tier memory, OODA loops | 11+ interactive demos |
-| [Intelligence Engine](https://fbratten.github.io/intelligence-engine-showcase/) | Code knowledge graphs, hybrid search | Search Picker, Cypher Console |
-| [arbiter](https://fbratten.github.io/arbiter-showcase/) | MCP Server Validator - protocol compliance, quality, LLM ergonomics | Profile Simulator |
 | [8me Learning Platform](https://fbratten.github.io/8me-showcase/) | Loop orchestration curriculum | 15 progressive labs |
-| [agentspool](https://fbratten.github.io/agentspool-showcase/) | Inter-agent messaging | Network Graph, Message Flow, Radar |
+| [Intelligence Engine](https://fbratten.github.io/intelligence-engine-showcase/) | Code knowledge graphs, hybrid search | Search Picker, Cypher Console |
 | [Adaptive MCP Orchestrator](https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/) | Cognitive task dispatcher | Architecture demos |
 | [Security Audit MCP](https://fbratten.github.io/Security-Audit-MCP-Server-Showcase/) | 5 security scanners, Docker-isolated | Stack Detector, Secret Scanner |
 | [Music Video Creator](https://fbratten.github.io/music-video-creator-showcase/) | 19 visual styles, audio analysis | Style Showcase, Beat Effects |
+| [agentspool](https://fbratten.github.io/agentspool-showcase/) | Inter-agent messaging | Network Graph, Message Flow, Radar |
+| [arbiter](https://fbratten.github.io/arbiter-showcase/) | MCP Server Validator - protocol compliance, quality, LLM ergonomics | Profile Simulator, fix packs, checks |
 | [switchcore](https://fbratten.github.io/switchcore-showcase/) | MCP Meta-Router, smart tool routing | Tool cards, architecture |
 | [vigil](https://fbratten.github.io/vigil-showcase/) | Self-scheduling follow-up server | Tools, check types, notifications |
-| [arbiter](https://fbratten.github.io/arbiter-showcase/) | MCP Server Validator, 4 profiles | Profiles, fix packs, checks |
 | [spawn](https://fbratten.github.io/spawn-showcase/) | Meta-MCP: builds MCP servers from patterns | Architecture, scoring, pipeline |
 
 ---
