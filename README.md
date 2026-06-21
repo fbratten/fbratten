@@ -1,5 +1,5 @@
 
-**I build the infrastructure that makes AI agents remember, coordinate, and improve.**
+**I build the infrastructure that makes AI agents remember, coordinate, execute safely, and improve.**
 
 <p align="center">
   <a href="https://fbratten.github.io/spine-showcase/"><img src="https://img.shields.io/badge/SPINE-Showcase-6366F1?style=for-the-badge" alt="SPINE"/></a>
@@ -7,6 +7,7 @@
   <a href="https://fbratten.github.io/intelligence-engine-showcase/"><img src="https://img.shields.io/badge/IE-Knowledge_Graphs-00ccaa?style=for-the-badge" alt="Intelligence Engine"/></a>
   <a href="https://fbratten.github.io/From-Blueprint-to-Application/"><img src="https://img.shields.io/badge/Book-From_Blueprint_to_Application-orange?style=for-the-badge" alt="Book"/></a>
   <a href="https://adaptivearts.ai/#prototypes"><img src="https://img.shields.io/badge/Adaptivearts.ai-Prototypes-blueviolet?style=for-the-badge" alt="Prototypes"/></a>
+  <a href="https://github.com/fbratten/broker-lane-sandbox"><img src="https://img.shields.io/badge/Broker_Lane_Sandbox-Agent_Safety-111827?style=for-the-badge" alt="Broker Lane Sandbox"/></a>
 </p>
 
 ---
@@ -34,6 +35,23 @@ The central nervous system connecting 270+ projects. Seven tiers of memory, seve
 The pipeline that edited my book - 74,000 words, five iterations, score 5.6 -> 9.5 - ran on this.
 
 > [Explore SPINE - 11+ interactive demos](https://fbratten.github.io/spine-showcase/)
+
+### Broker Lane Sandbox - Safe Execution for Agent Workflows
+
+A default-deny execution sandbox for AI agent lanes. It is designed for broker-style workflows where one system owns orchestration and another executes bounded work under policy.
+
+| Safety surface | What it does |
+|----------------|--------------|
+| Policy validation | Versioned default-deny policy schema before execution |
+| Environment control | Scrubbed child environments with secret-deny rules |
+| Process limits | Wall-clock timeout, process-tree cleanup, resource limits, output caps |
+| Network posture | Offline by default, with explicit allowlist support planned |
+| Model artifacts | Blocks model weights and runtime caches from entering git |
+| Integration contract | JSON-in / JSON-out CLI seam for orchestrators |
+
+The project exists to keep AI-assisted execution separate from orchestration, memory, and verification. It is public, MIT licensed, CI-tested, and hardened with GitHub security settings.
+
+> [View broker-lane-sandbox on GitHub](https://github.com/fbratten/broker-lane-sandbox)
 
 ### Intelligence Engine - Code Knowledge Graphs
 
