@@ -89,7 +89,7 @@ A working audio-first pipeline for a daily local morning brief in Västra Götal
 It is not an autonomous newsroom and it does not scrape copyrighted articles. The point is a repeatable, editorially controlled production loop: AI-assisted, source-aware, and human-reviewed.
 
 <p align="center">
-  <img src="assets/news-room-pipeline.jpg" alt="Conceptual overview of the AI-assisted local newsroom pipeline: collect, rank, script, editorial QA, voice, captions, human review" width="900"/>
+  <img src="assets/news-room-pipeline.jpg" alt="Conceptual overview of the AI-assisted local newsroom pipeline: collect, rank, script, editorial QA, voice, captions, human review" width="180"/>
 </p>
 
 | Stage | Status |
