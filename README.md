@@ -88,19 +88,25 @@ A working audio-first pipeline for a daily local morning brief in Västra Götal
 
 It is not an autonomous newsroom and it does not scrape copyrighted articles. The point is a repeatable, editorially controlled production loop: AI-assisted, source-aware, and human-reviewed.
 
-<p align="center">
-  <img src="assets/news-room-pipeline.jpg" alt="Conceptual overview of the AI-assisted local newsroom pipeline: collect, rank, script, editorial QA, voice, captions, human review" width="180"/>
-</p>
-
-| Stage | Status |
-|-------|--------|
-| Local source collection | Working: SMHI warnings + Polisen events |
-| Ranking and rundown | Working |
-| Swedish script generation | Working |
-| Editorial QA | Working |
-| Voice and captions | Working |
-| Video assembly | Working (separate component) |
-| Publishing | Paused / future slice |
+<table>
+<tr>
+<td valign="top">
+<table>
+<tr><th>Stage</th><th>Status</th></tr>
+<tr><td>Local source collection</td><td>Working: SMHI warnings + Polisen events</td></tr>
+<tr><td>Ranking and rundown</td><td>Working</td></tr>
+<tr><td>Swedish script generation</td><td>Working</td></tr>
+<tr><td>Editorial QA</td><td>Working</td></tr>
+<tr><td>Voice and captions</td><td>Working</td></tr>
+<tr><td>Video assembly</td><td>Working (separate component)</td></tr>
+<tr><td>Publishing</td><td>Paused / future slice</td></tr>
+</table>
+</td>
+<td valign="top">
+<img src="assets/news-room-pipeline.jpg" alt="Conceptual overview of the AI-assisted local newsroom pipeline: collect, rank, script, editorial QA, voice, captions, human review" width="360"/>
+</td>
+</tr>
+</table>
 
 This is the commercial direction of Adaptivearts.ai in miniature: practical AI systems that connect automation, editorial judgment, safety gates, and reusable production pipelines.
 
