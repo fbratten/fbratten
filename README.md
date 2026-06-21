@@ -82,6 +82,29 @@ Music Video Creator (19 visual styles, beat-sync, genre presets), flow-musical-c
 
 > [Explore Music Video Creator - 6 interactive demos](https://fbratten.github.io/music-video-creator-showcase/)
 
+### Applied Prototype: AI-Assisted Local Newsroom
+
+A working audio-first pipeline for a daily local morning brief in Västra Götaland, Sweden. The system collects approved public sources, deduplicates and ranks stories, generates a neutral Swedish script, runs editorial QA, creates voice and script-anchored captions, and packages the episode for human review.
+
+It is not an autonomous newsroom and it does not scrape copyrighted articles. The point is a repeatable, editorially controlled production loop: AI-assisted, source-aware, and human-reviewed.
+
+<p align="center">
+  <img src="assets/news-room-pipeline.jpg" alt="Conceptual overview of the AI-assisted local newsroom pipeline: collect, rank, script, editorial QA, voice, captions, human review" width="900"/>
+</p>
+
+| Stage | Status |
+|-------|--------|
+| Local source collection | Working: SMHI warnings + Polisen events |
+| Ranking and rundown | Working |
+| Swedish script generation | Working |
+| Editorial QA | Working |
+| Voice and captions | Working |
+| Video assembly and publishing | Paused / future slice |
+
+This is the commercial direction of Adaptivearts.ai in miniature: practical AI systems that connect automation, editorial judgment, safety gates, and reusable production pipelines.
+
+> Case study / showcase page coming later.
+
 ---
 
 ## Live Showcases & Demos
@@ -131,6 +154,8 @@ A 90-day journey from first prompt to production AI systems. 12 chapters across 
 ## Adaptivearts.ai
 
 Independent AI research initiative exploring agentic systems, context engineering, and creative AI pipelines.
+
+Recent applied prototype: an AI-assisted local newsroom pipeline for Västra Götaland, combining source collection, editorial QA, Swedish voice generation, captions, and human review.
 
 - [Research & Prototypes](https://adaptivearts.ai/#prototypes) - 3 prototype domains with 55+ backing projects
 - [MCP Server Directory](https://adaptivearts.ai/mcp) - 5 servers, 49 tools (3 live cloud endpoints)
