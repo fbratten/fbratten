@@ -99,7 +99,8 @@ It is not an autonomous newsroom and it does not scrape copyrighted articles. Th
 | Swedish script generation | Working |
 | Editorial QA | Working |
 | Voice and captions | Working |
-| Video assembly and publishing | Paused / future slice |
+| Video assembly | Working (separate component) |
+| Publishing | Paused / future slice |
 
 This is the commercial direction of Adaptivearts.ai in miniature: practical AI systems that connect automation, editorial judgment, safety gates, and reusable production pipelines.
 
