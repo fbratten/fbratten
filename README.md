@@ -104,6 +104,8 @@ It is not an autonomous newsroom and it does not scrape copyrighted articles. Th
 </td>
 <td align="center" valign="middle">
 <img src="assets/news-room-pipeline.jpg" alt="Conceptual overview of the AI-assisted local newsroom pipeline: collect, rank, script, editorial QA, voice, captions, human review" width="360"/>
+<br/>
+<img src="assets/news-room-ingestion-control-center.jpg" alt="Ingestion Control Center operator console: source registry telemetry and the is_ingestible() hard policy gate (ingestible / needs manual review / blocked by robots.txt)" width="360"/>
 </td>
 </tr>
 </table>
