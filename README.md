@@ -90,7 +90,7 @@ It is not an autonomous newsroom and it does not scrape copyrighted articles. Th
 
 <table>
 <tr>
-<td valign="top">
+<td valign="middle">
 <table>
 <tr><th>Stage</th><th>Status</th></tr>
 <tr><td>Local source collection</td><td>Working: SMHI warnings + Polisen events</td></tr>
