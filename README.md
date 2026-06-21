@@ -102,7 +102,7 @@ It is not an autonomous newsroom and it does not scrape copyrighted articles. Th
 <tr><td>Publishing</td><td>Paused / future slice</td></tr>
 </table>
 </td>
-<td valign="top">
+<td align="center" valign="middle">
 <img src="assets/news-room-pipeline.jpg" alt="Conceptual overview of the AI-assisted local newsroom pipeline: collect, rank, script, editorial QA, voice, captions, human review" width="360"/>
 </td>
 </tr>
