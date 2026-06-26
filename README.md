@@ -179,7 +179,7 @@ Recent applied prototype: an AI-assisted local newsroom pipeline for Västra Gö
 
 ## Personal Side Quest: Music
 
-Not Adaptivearts.ai, not an MCP server, not a context-engineering framework. Just my personal music outlet — occasionally the human also emits audio.
+Not Adaptivearts.ai, not an MCP server, not a context-engineering framework. Just my personal music outlet - occasionally the human also emits audio.
 
 🎧 [Spotify artist profile](https://open.spotify.com/artist/0c5DZx6gt2uBkDkkChERGC)
 
