@@ -1,4 +1,3 @@
-
 **I build the infrastructure that makes AI agents remember, coordinate, execute safely, and improve.**
 
 <p align="center">
@@ -177,6 +176,12 @@ Recent applied prototype: an AI-assisted local newsroom pipeline for Västra Gö
 ## Background
 
 20+ years in IT operations, systems architecture, cybersecurity, and DevOps. SOC analysis, XDR implementation, high-availability systems for regulated environments (gaming, finance). Founder of [Adaptivearts.ai](https://adaptivearts.ai).
+
+## Personal Side Quest: Music
+
+Not Adaptivearts.ai, not an MCP server, not a context-engineering framework. Just my personal music outlet — occasionally the human also emits audio.
+
+🎧 [Spotify artist profile](https://open.spotify.com/artist/0c5DZx6gt2uBkDkkChERGC)
 
 
 <p align="center">
