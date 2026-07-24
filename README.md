@@ -35,20 +35,22 @@ The pipeline that edited my book - 74,000 words, five iterations, score 5.6 -> 9
 
 > [Explore SPINE - 11+ interactive demos](https://fbratten.github.io/spine-showcase/)
 
-### Broker Lane Sandbox - Safe Execution for Agent Workflows
+### Broker Lane Sandbox - Bounded Execution for Agent Workflows
 
-A default-deny execution sandbox for AI agent lanes. It is designed for broker-style workflows where one system owns orchestration and another executes bounded work under policy.
+A default-deny execution boundary for AI agent lanes. It separates orchestration from the act of running commands or local models, applying explicit policy, environment scrubbing, resource limits and structured result contracts.
 
 | Safety surface | What it does |
 |----------------|--------------|
-| Policy validation | Versioned default-deny policy schema before execution |
-| Environment control | Scrubbed child environments with secret-deny rules |
-| Process limits | Wall-clock timeout, process-tree cleanup, resource limits, output caps |
-| Network posture | Offline by default, with explicit allowlist support planned |
-| Model artifacts | Blocks model weights and runtime caches from entering git |
-| Integration contract | JSON-in / JSON-out CLI seam for orchestrators |
+| Policy validation | Versioned default-deny policy before any process is spawned |
+| Environment control | Builds child environments from empty and drops secret-looking variables |
+| Process limits | Wall-clock timeout, process-group cleanup, POSIX resource limits and output caps |
+| Network posture | Offline by default through environment neutralization and proxy removal |
+| Model boundary | Keeps model weights out of git and resolves them from an env-driven runtime cache |
+| Local inference | `bls infer` with llama.cpp-family runners plus a weight-free fake runner for CI |
+| Streaming | Additive JSONL transport through `bls infer --stream` |
+| Integration | Stable JSON-in / JSON-out CLI seams for `project-broker-loom` and other orchestrators |
 
-The project exists to keep AI-assisted execution separate from orchestration, memory, and verification. It is public, MIT licensed, CI-tested, and hardened with GitHub security settings.
+It is a bounded, policy-driven execution layer, not a kernel or container isolation boundary. The project is public, MIT licensed, protected by a required fail-closed CI gate, and independently developed from `project-broker-loom`.
 
 > [View broker-lane-sandbox on GitHub](https://github.com/fbratten/broker-lane-sandbox)
 
