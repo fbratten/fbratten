@@ -46,6 +46,24 @@ The detailed source pins, verification limits and publication status are recorde
 
 ## Supporting systems
 
+### Vertex — 3D visual systems engine
+
+A scene-driven React and Three.js engine that normalizes agents, projects, workflow runs and graph events into a shared node/edge/event model.
+
+The public-safe demonstration shows synthetic agents, focus, replay, priority filtering, provenance and snapshot export without exposing real messages, workflow data or private source.
+
+> [Explore the Vertex visual proof](https://fbratten.github.io/vertex/)
+
+### Worktrace — local-first provenance ledger
+
+A Python CLI and SQLite action-evidence ledger that separates observed evidence, declared project context and derived reports.
+
+The synthetic proof demonstrates temporal honesty, privacy receipts, secret-shaped-input refusal and JSONL/Markdown projections without exposing a real ledger, shell history, transcript or Personal RAG record.
+
+> [Explore the Worktrace provenance proof](https://fbratten.github.io/worktrace/)
+
+The source pins and verification boundaries for both supporting cases are recorded in [`docs/supporting-proof-evidence-2026-08-02.md`](docs/supporting-proof-evidence-2026-08-02.md).
+
 ### Adaptive MCP Orchestrator Blueprint
 
 A multi-provider task-routing and orchestration system combining provider selection, fallback, learning, LanceDB, Neo4j, FastAPI and observability.
