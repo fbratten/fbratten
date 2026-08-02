@@ -64,25 +64,27 @@ The synthetic proof demonstrates temporal honesty, privacy receipts, secret-shap
 
 The source pins and verification boundaries for both supporting cases are recorded in [`docs/supporting-proof-evidence-2026-08-02.md`](docs/supporting-proof-evidence-2026-08-02.md).
 
+### SPINE
+
+A RunContext-governed orchestration runtime and multi-agent backbone. The current evidence route distinguishes the adopted compiled execution path, exposed through CLI and HTTP, from peer and reference surfaces such as AgenticLoop, OODA, scenario execution and review.
+
+> [Open the current source-pinned SPINE proof](https://fbratten.github.io/spine-showcase/recruiter-proof/) · [Browse the full showcase](https://fbratten.github.io/spine-showcase/)
+
 ### Adaptive MCP Orchestrator Blueprint
 
-A multi-provider task-routing and orchestration system combining provider selection, fallback, learning, LanceDB, Neo4j, FastAPI and observability.
+A private teaching and reference implementation of capability-based routing, provider fallback, observability and optional learning with FastAPI, LanceDB and Neo4j. It is not presented as an active production service or as the estate's current universal MCP router.
 
-> [Explore the public showcase](https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/)
+> [Open the current source-pinned evidence route](https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/recruiter-proof/) · [Browse the historical showcase](https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/)
 
 ### Broker Lane Sandbox
 
 A public, default-deny execution boundary for agent workflows with policy validation, environment scrubbing, resource limits, output caps and local-model support.
 
-It is a bounded process-execution layer, not a kernel or container isolation boundary.
+It is a bounded process-execution layer, not a kernel or container isolation boundary. The public source remains canonical; the evidence card provides a short recruiter orientation.
 
-> [View the public source repository](https://github.com/fbratten/broker-lane-sandbox)
+> [Read the source-first evidence card](https://fbratten.github.io/broker-lane-sandbox/) · [Inspect the public source](https://github.com/fbratten/broker-lane-sandbox)
 
-### SPINE
-
-A broader context-engineering and orchestration backbone covering compiled plans, execution transports, memory, routing, observability and multi-agent coordination.
-
-> [Explore the SPINE showcase](https://fbratten.github.io/spine-showcase/)
+The freshness pins, lifecycle boundaries and non-claims for these three cases are recorded in [`docs/supporting-proof-evidence-p1-02-2026-08-02.md`](docs/supporting-proof-evidence-p1-02-2026-08-02.md).
 
 ---
 
