@@ -1,195 +1,168 @@
-**I build the infrastructure that makes AI agents remember, coordinate, execute safely, and improve.**
+# Fredrik Brattén
+
+**AI Engineer building retrieval systems, agent orchestration, user-facing AI products and reliable execution infrastructure.**
+
+I combine applied AI with more than 20 years in enterprise IT, automation, operations and cybersecurity. My work focuses on systems that are useful in practice: searchable knowledge, controlled agent actions, product-facing AI workflows, auditability and operational safeguards.
 
 <p align="center">
-  <a href="https://fbratten.github.io/spine-showcase/"><img src="https://img.shields.io/badge/SPINE-Showcase-6366F1?style=for-the-badge" alt="SPINE"/></a>
-  <a href="https://fbratten.github.io/8me-showcase/"><img src="https://img.shields.io/badge/8me-Labs-blue?style=for-the-badge" alt="8me"/></a>
-  <a href="https://fbratten.github.io/intelligence-engine-showcase/"><img src="https://img.shields.io/badge/IE-Knowledge_Graphs-00ccaa?style=for-the-badge" alt="Intelligence Engine"/></a>
-  <a href="https://fbratten.github.io/From-Blueprint-to-Application/"><img src="https://img.shields.io/badge/Book-From_Blueprint_to_Application-orange?style=for-the-badge" alt="Book"/></a>
-  <a href="https://adaptivearts.ai/#prototypes"><img src="https://img.shields.io/badge/Adaptivearts.ai-Prototypes-blueviolet?style=for-the-badge" alt="Prototypes"/></a>
-  <a href="https://github.com/fbratten/broker-lane-sandbox"><img src="https://img.shields.io/badge/Broker_Lane_Sandbox-Agent_Safety-111827?style=for-the-badge" alt="Broker Lane Sandbox"/></a>
+  <a href="https://fbratten.github.io/intelligence-engine-showcase/"><img src="https://img.shields.io/badge/Intelligence_Engine-Retrieval_%26_Graphs-00bfa5?style=for-the-badge" alt="Intelligence Engine"/></a>
+  <a href="https://fbratten.github.io/mads/"><img src="https://img.shields.io/badge/MADS-Human--in--the--Loop-7c6cff?style=for-the-badge" alt="MADS"/></a>
+  <a href="https://fbratten.github.io/adaptivearts-ai/"><img src="https://img.shields.io/badge/Adaptivearts.ai-AI_Product-2563eb?style=for-the-badge" alt="Adaptivearts.ai"/></a>
+  <a href="https://fbratten.github.io/gate-monitor/"><img src="https://img.shields.io/badge/Gate_Monitor-Runtime_Governance-f59e0b?style=for-the-badge" alt="Gate Monitor"/></a>
 </p>
 
 ---
 
-## The Problem
+## Four current proof-of-work flagships
 
-Most AI agent systems are talented amnesiacs. Brilliant in the moment, blank by the next session. They can't remember what they learned, can't build on what came before, and can't coordinate without a human holding the threads.
+These four projects provide complementary evidence across retrieval, product engineering, agent interaction and runtime reliability.
 
-I build the systems that fix this.
+| Project | Problem solved | Implementation evidence | Public proof |
+|---|---|---|---|
+| **Intelligence Engine** | Makes structured source material searchable through lexical, semantic and graph retrieval rather than one search method alone | Python, FastAPI, React, TypeScript, Sigma.js, KuzuDB, LanceDB, BM25, schema-driven domains, REST and MCP | [Explore the showcase](https://fbratten.github.io/intelligence-engine-showcase/) |
+| **MADS — Multi-Agent Developer Sandbox** | Lets AI agents propose code and commands without giving them uncontrolled host access | Electron, React, TypeScript, Zod, policy-gated execution, reviewable ChangeSets, durable audit, 125 Vitest tests and 13 Electron E2E scenarios at the pinned implementation receipt | [Try the synthetic proof package](https://fbratten.github.io/mads/) |
+| **Adaptivearts.ai** | Turns research, editorial work and AI experiments into a deployed user-facing product | Astro, React, TypeScript, Supabase Auth and role handling, editorial workflows and an authenticated server-side Gemini provider boundary | [Read the architecture case study](https://fbratten.github.io/adaptivearts-ai/) · [Visit the product](https://adaptivearts.ai/) |
+| **Gate Monitor** | Governs long-running AI-agent sessions using deterministic policy rather than relying on the agent to self-report that everything is fine | Python, Typer, Pydantic, JSONL evidence, cost/time/progress/error thresholds, quality and memory findings, reports and MCP; source history records 279 passing tests plus three dogfood scripts | [Use the synthetic decision demonstrator](https://fbratten.github.io/gate-monitor/) |
 
-## What I Build
+### What the four cases demonstrate together
 
-### SPINE - Context Engineering Backbone
+```text
+source material and operational signals
+-> structured ingestion and typed contracts
+-> retrieval, policy or decision logic
+-> user-facing React / web / desktop surfaces
+-> explicit approval, evidence and audit boundaries
+-> reproducible verification receipts
+```
 
-The central nervous system connecting 270+ projects. Seven tiers of memory, seven pluggable executors, OODA composition, and a grammar inspired by the Rig Veda for temporal knowledge annotation.
+- **Applied AI:** hybrid retrieval, provider integrations, agent workflows and AI-assisted product features.
+- **Modern application engineering:** Python/FastAPI, React/TypeScript, Astro, Electron and Supabase.
+- **Reliable execution:** policy gates, reversible changes, deterministic decisions and durable evidence.
+- **Security-aware design:** credentials kept out of browser or renderer surfaces, path confinement, workspace boundaries and explicit non-claims.
 
-| Layer | What | How |
-|-------|------|-----|
-| Memory | 7-tier system (KV -> Scratchpad -> Vector -> Ephemeral -> Episodic -> Deep/pgvector -> Graph) | Each tier serves a different temporal need |
-| Orchestration | OODA loop + AgenticLoop + Dynamic Routing | Agents that observe, orient, decide, act, and reflect |
-| Execution | 7 pluggable executors | Subagent, MCP Orchestrator, Content Pipeline, Small LLM, Task Router + 2 API executors |
-| Governance | Tiered enforcement + Five-Point Protocol + warrant gate | Not everything deserves to be remembered |
-| Knowledge | EBNF grammar (Rig Veda temporal markers) + DIALECTIC engine | Thesis -> antithesis -> synthesis with convergence tracking |
-
-The pipeline that edited my book - 74,000 words, five iterations, score 5.6 -> 9.5 - ran on this.
-
-> [Explore SPINE - 11+ interactive demos](https://fbratten.github.io/spine-showcase/)
-
-### Broker Lane Sandbox - Bounded Execution for Agent Workflows
-
-A default-deny execution boundary for AI agent lanes. It separates orchestration from the act of running commands or local models, applying explicit policy, environment scrubbing, resource limits and structured result contracts.
-
-| Safety surface | What it does |
-|----------------|--------------|
-| Policy validation | Versioned default-deny policy before any process is spawned |
-| Environment control | Builds child environments from empty and drops secret-looking variables |
-| Process limits | Wall-clock timeout, process-group cleanup, POSIX resource limits and output caps |
-| Network posture | Offline by default through environment neutralization and proxy removal |
-| Model boundary | Keeps model weights out of git and resolves them from an env-driven runtime cache |
-| Local inference | `bls infer` with llama.cpp-family runners plus a weight-free fake runner for CI |
-| Streaming | Additive JSONL transport through `bls infer --stream` |
-| Integration | Stable JSON-in / JSON-out CLI seams for `project-broker-loom` and other orchestrators |
-
-It is a bounded, policy-driven execution layer, not a kernel or container isolation boundary. The project is public, MIT licensed, protected by a required fail-closed CI gate, and independently developed from `project-broker-loom`.
-
-> [View broker-lane-sandbox on GitHub](https://github.com/fbratten/broker-lane-sandbox)
-
-### Intelligence Engine - Code Knowledge Graphs
-
-AST-driven knowledge graphs over codebases. KuzuDB + hybrid search (BM25 + semantic + graph expansion). 53,000+ entities indexed across 272 projects. 15 MCP tools, 33 REST endpoints, 1,261+ tests.
-
-> [Explore Intelligence Engine - search, Cypher console, dashboards](https://fbratten.github.io/intelligence-engine-showcase/)
-
-### MCP Ecosystem - 30+ Servers
-
-Purpose-built Model Context Protocol servers for AI agent workflows.
-
-| Category | Count | Examples |
-|----------|-------|---------|
-| Orchestration | 4 | SPINE executor adapters, gen-loop scheduler, 8do Ralph Loop |
-| Agent Coordination | 4 | agentspool messaging, agent-comm relay, session handover |
-| Knowledge & Memory | 5 | Minna (SQLite+FTS5), mem-system (pgvector), context-glue, observation-workbench |
-| Research | 3 | research-agent, research-notes, research-log |
-| Content & Creative | 4 | content-mcp (41 tools), the-musicologist, content-analyzer, content-extractor |
-| Infrastructure | 5 | mcp-server-checker, security-audit, smart-inventory, backup, manual-generator |
-| Evaluation | 2 | Evalla (rubric scoring), evaluation-mcp |
-| Browser & Visual | 3 | browser-mcp (CDP + grid overlay), tachylite (canvas editor), showcase-mcp |
-
-**3 cloud MCP servers live** at [adaptivearts.ai/mcp](https://adaptivearts.ai/mcp) - Evalla, Minna Memory, Agent Comm (Bearer auth, rate limiting, audit trail).
-
-### Creative Pipelines
-
-Music Video Creator (19 visual styles, beat-sync, genre presets), flow-musical-creation (12-song AI musical), the-musicologist-mcp (style descriptions, Suno/Udio formatting).
-
-> [Explore Music Video Creator - 6 interactive demos](https://fbratten.github.io/music-video-creator-showcase/)
-
-### Applied Prototype: AI-Assisted Local Newsroom
-
-A working audio-first pipeline for a daily local morning brief in Västra Götaland, Sweden. The system collects approved public sources, deduplicates and ranks stories, generates a neutral Swedish script, runs editorial QA, creates voice and script-anchored captions, and packages the episode for human review.
-
-It is not an autonomous newsroom and it does not scrape copyrighted articles. The point is a repeatable, editorially controlled production loop: AI-assisted, source-aware, and human-reviewed.
-
-<table>
-<tr>
-<td valign="middle">
-<table>
-<tr><th>Stage</th><th>Status</th></tr>
-<tr><td>Local source collection</td><td>Working: SMHI warnings + Polisen events</td></tr>
-<tr><td>Ranking and rundown</td><td>Working</td></tr>
-<tr><td>Swedish script generation</td><td>Working</td></tr>
-<tr><td>Editorial QA</td><td>Working</td></tr>
-<tr><td>Voice and captions</td><td>Working</td></tr>
-<tr><td>Video assembly</td><td>Working (separate component)</td></tr>
-<tr><td>Publishing</td><td>Paused / future slice</td></tr>
-</table>
-</td>
-<td align="center" valign="middle">
-<img src="assets/news-room-pipeline.jpg" alt="Conceptual overview of the AI-assisted local newsroom pipeline: collect, rank, script, editorial QA, voice, captions, human review" width="360"/>
-<br/>
-<img src="assets/news-room-ingestion-control-center.jpg" alt="Ingestion Control Center operator console: source registry telemetry and the is_ingestible() hard policy gate (ingestible / needs manual review / blocked by robots.txt)" width="360"/>
-</td>
-</tr>
-</table>
-
-This is the commercial direction of Adaptivearts.ai in miniature: practical AI systems that connect automation, editorial judgment, safety gates, and reusable production pipelines.
-
-> Case study / showcase page coming later.
+The detailed source pins, verification limits and publication status are recorded in [`docs/recruiter-proof-evidence-2026-08-02.md`](docs/recruiter-proof-evidence-2026-08-02.md).
 
 ---
 
-## Live Showcases & Demos
+## Supporting systems
 
-All self-contained, no API keys needed.
+### Adaptive MCP Orchestrator Blueprint
 
-| Showcase | What | Demos |
-|----------|------|-------|
-| [SPINE Framework](https://fbratten.github.io/spine-showcase/) | Multi-agent orchestration, 7-tier memory, OODA loops | 11+ interactive demos |
-| [8me Learning Platform](https://fbratten.github.io/8me-showcase/) | Loop orchestration curriculum | 15 progressive labs |
-| [Intelligence Engine](https://fbratten.github.io/intelligence-engine-showcase/) | Code knowledge graphs, hybrid search | Search Picker, Cypher Console |
-| [Adaptive MCP Orchestrator](https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/) | Cognitive task dispatcher | Architecture demos |
-| [Security Audit MCP](https://fbratten.github.io/Security-Audit-MCP-Server-Showcase/) | 5 security scanners, Docker-isolated | Stack Detector, Secret Scanner |
-| [Music Video Creator](https://fbratten.github.io/music-video-creator-showcase/) | 19 visual styles, audio analysis | Style Showcase, Beat Effects |
-| [agentspool](https://fbratten.github.io/agentspool-showcase/) | Inter-agent messaging | Network Graph, Message Flow, Radar |
-| [arbiter](https://fbratten.github.io/arbiter-showcase/) | MCP Server Validator - protocol compliance, quality, LLM ergonomics | Profile Simulator, fix packs, checks |
-| [switchcore](https://fbratten.github.io/switchcore-showcase/) | MCP Meta-Router, smart tool routing | Tool cards, architecture |
-| [vigil](https://fbratten.github.io/vigil-showcase/) | Self-scheduling follow-up server | Tools, check types, notifications |
-| [spawn](https://fbratten.github.io/spawn-showcase/) | Meta-MCP: builds MCP servers from patterns | Architecture, scoring, pipeline |
+A multi-provider task-routing and orchestration system combining provider selection, fallback, learning, LanceDB, Neo4j, FastAPI and observability.
+
+> [Explore the public showcase](https://fbratten.github.io/Adaptive-MCP-Orchestrator-Blueprint-Showcase/)
+
+### Broker Lane Sandbox
+
+A public, default-deny execution boundary for agent workflows with policy validation, environment scrubbing, resource limits, output caps and local-model support.
+
+It is a bounded process-execution layer, not a kernel or container isolation boundary.
+
+> [View the public source repository](https://github.com/fbratten/broker-lane-sandbox)
+
+### SPINE
+
+A broader context-engineering and orchestration backbone covering compiled plans, execution transports, memory, routing, observability and multi-agent coordination.
+
+> [Explore the SPINE showcase](https://fbratten.github.io/spine-showcase/)
 
 ---
 
-## The Book: From Blueprint to Application
+## Public MCP product family
 
-**By Fredrik Bratten & Sasa Popovic**
+A set of smaller public products demonstrates narrow, explainable MCP capabilities:
 
-A 90-day journey from first prompt to production AI systems. 12 chapters across 6 parts. Processed by the SPINE pipeline with AI editorial personas - the same infrastructure described above edited the book that describes it.
+| Project | Purpose | Public surface |
+|---|---|---|
+| **switchcore** | Discovers MCP tools and recommends bounded workflows | [Showcase](https://fbratten.github.io/switchcore-showcase/) |
+| **vigil** | Schedules durable follow-up checks with retry and expiry | [Showcase](https://fbratten.github.io/vigil-showcase/) |
+| **spawn** | Turns recurring agent patterns into generated MCP projects | [Showcase](https://fbratten.github.io/spawn-showcase/) |
+| **arbiter** | Validates MCP protocol behavior, quality and remediation paths | [Showcase](https://fbratten.github.io/arbiter-showcase/) |
+| **agentspool** | Provides inter-agent messaging and delivery semantics | [Showcase](https://fbratten.github.io/agentspool-showcase/) |
 
-**9 interactive demos included:**
+---
 
-| Demo | What it teaches |
-|------|-----------------|
-| [Prompt Builder](https://fbratten.github.io/From-Blueprint-to-Application/demos/prompt-builder/) | Structured prompt construction |
-| [Model Selector](https://fbratten.github.io/From-Blueprint-to-Application/demos/model-selector/) | Choosing the right model for the task |
-| [Token Calculator](https://fbratten.github.io/From-Blueprint-to-Application/demos/token-calculator/) | Understanding token economics |
-| [Enterprise Flow](https://fbratten.github.io/From-Blueprint-to-Application/demos/enterprise-flow/) | Enterprise AI workflow patterns |
-| [Injection Detection](https://fbratten.github.io/From-Blueprint-to-Application/demos/injection-detection/) | Prompt injection defense |
-| [Few-Shot Builder](https://fbratten.github.io/From-Blueprint-to-Application/demos/few-shot-builder/) | Few-shot learning patterns |
-| [MCP Server Setup](https://fbratten.github.io/From-Blueprint-to-Application/demos/mcp-server-setup/) | Building your first MCP server |
-| [Five-Point Protocol](https://fbratten.github.io/From-Blueprint-to-Application/demos/five-point-protocol/) | Structured execution framework |
-| [Security Assessment](https://fbratten.github.io/From-Blueprint-to-Application/demos/security-assessment-agent/) | AI security evaluation |
+## Additional showcases and applied work
 
-> [Browse the book site](https://fbratten.github.io/From-Blueprint-to-Application/)
+| Showcase | Focus |
+|---|---|
+| [8me Learning Platform](https://fbratten.github.io/8me-showcase/) | Progressive loop-orchestration labs |
+| [Security Audit MCP](https://fbratten.github.io/Security-Audit-MCP-Server-Showcase/) | Security scanning and isolated analysis patterns |
+| [Music Video Creator](https://fbratten.github.io/music-video-creator-showcase/) | Audio analysis, beat-aware rendering and multimodal output |
+| [From Blueprint to Application](https://fbratten.github.io/From-Blueprint-to-Application/) | Book and interactive demonstrations covering structured AI delivery |
+
+### Applied AI-assisted local newsroom prototype
+
+A controlled audio-first pipeline for a local morning brief in Västra Götaland:
+
+```text
+approved public sources
+-> collection and deduplication
+-> ranking and rundown
+-> Swedish script generation
+-> editorial QA
+-> voice and script-anchored captions
+-> human review
+```
+
+The prototype is AI-assisted and human-reviewed. It is not presented as an autonomous newsroom or as permission to reproduce copyrighted source articles.
+
+---
+
+## How I approach AI engineering
+
+I prefer systems where claims can be inspected:
+
+- source and implementation commits are pinned;
+- tests and runtime receipts are distinguished from documentation claims;
+- private data is replaced by synthetic fixtures in public demonstrations;
+- limitations and non-claims sit beside strengths;
+- risky actions pass through explicit policy or human approval;
+- preserve-first change practices keep earlier evidence available.
+
+This is also why many of the public proof packages are explanatory or synthetic. They demonstrate the product and control model without publishing credentials, prompts, private patches, operational logs or customer-like data.
 
 ---
 
 ## Adaptivearts.ai
 
-Independent AI research initiative exploring agentic systems, context engineering, and creative AI pipelines.
+[Adaptivearts.ai](https://adaptivearts.ai/) is my independent applied-AI initiative for research, prototypes, technical writing and product experiments.
 
-Recent applied prototype: an AI-assisted local newsroom pipeline for Västra Götaland, combining source collection, editorial QA, Swedish voice generation, captions, and human review.
-
-- [Research & Prototypes](https://adaptivearts.ai/#prototypes) - 3 prototype domains with 55+ backing projects
-- [MCP Server Directory](https://adaptivearts.ai/mcp) - 5 servers, 49 tools (3 live cloud endpoints)
-- [Articles & Research](https://adaptivearts.ai/blog) - Technical writing on AI architecture, MCP, security
-- [Context Engineering](https://adaptivearts.ai/context-engineering) - Pillar page on context stacks, memory systems, patterns
-- [AI Agent Architecture](https://adaptivearts.ai/ai-agent-architecture) - 6-layer architecture reference
+- [Research and prototypes](https://adaptivearts.ai/#prototypes)
+- [Articles and research](https://adaptivearts.ai/blog)
+- [MCP directory](https://adaptivearts.ai/mcp)
+- [Context engineering](https://adaptivearts.ai/context-engineering)
+- [AI-agent architecture](https://adaptivearts.ai/ai-agent-architecture)
 
 ---
 
 ## Background
 
-20+ years in IT operations, systems architecture, cybersecurity, and DevOps. SOC analysis, XDR implementation, high-availability systems for regulated environments (gaming, finance). Founder of [Adaptivearts.ai](https://adaptivearts.ai).
+More than 20 years across enterprise IT operations, systems engineering, automation, cybersecurity and DevOps, including SOC/XDR work, identity and endpoint environments, monitoring, incident-oriented operations and business-facing technical delivery.
 
-## Personal Side Quest: Music
+My current focus is the intersection of:
 
-Not Adaptivearts.ai, not an MCP server, not a context-engineering framework. Just my personal music outlet - occasionally the human also emits audio.
+- applied AI and AI enablement;
+- automation and integration;
+- retrieval and knowledge systems;
+- agentic workflows;
+- security, governance and observability;
+- translating technical capability into practical business value.
+
+## Personal side quest: music
+
+Occasionally the human also emits audio.
 
 🎧 [Spotify artist profile](https://open.spotify.com/artist/0c5DZx6gt2uBkDkkChERGC)
 
+---
+
+The previous, broader profile README is preserved at [`archived/README.pre-canonical-recruiter-landing-2026-08-02.md`](archived/README.pre-canonical-recruiter-landing-2026-08-02.md).
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=fbratten&label=Profile%20Views&color=6366F1" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <sub>Built with SPINE · <a href="https://adaptivearts.ai">Adaptivearts.ai</a></sub>
+  <sub>Applied AI · Automation · Reliable agent systems · <a href="https://adaptivearts.ai">Adaptivearts.ai</a></sub>
 </p>
