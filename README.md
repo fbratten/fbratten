@@ -5,6 +5,16 @@
 I combine applied AI with more than 20 years in enterprise IT, automation, operations and cybersecurity. My work focuses on systems that are useful in practice: searchable knowledge, controlled agent actions, product-facing AI workflows, auditability and operational safeguards.
 
 <p align="center">
+  <a href="https://fbratten.github.io/"><img src="https://img.shields.io/badge/Public_Portfolio-Proof_Packages_%26_Showcases-14b8a6?style=for-the-badge" alt="Public portfolio"/></a>
+  <a href="https://fbratten.github.io/methods/"><img src="https://img.shields.io/badge/Methods_%26_Protocols-Interactive_Profiles-8b5cf6?style=for-the-badge" alt="Methods and protocols"/></a>
+</p>
+
+<p align="center">
+  <strong><a href="https://fbratten.github.io/">Start with the live portfolio landing page</a></strong><br/>
+  Recruiter proof packages, method profiles, supporting evidence and earlier showcases in one public route.
+</p>
+
+<p align="center">
   <a href="https://fbratten.github.io/intelligence-engine-showcase/"><img src="https://img.shields.io/badge/Intelligence_Engine-Retrieval_%26_Graphs-00bfa5?style=for-the-badge" alt="Intelligence Engine"/></a>
   <a href="https://fbratten.github.io/mads/"><img src="https://img.shields.io/badge/MADS-Human--in--the--Loop-7c6cff?style=for-the-badge" alt="MADS"/></a>
   <a href="https://fbratten.github.io/adaptivearts-ai/"><img src="https://img.shields.io/badge/Adaptivearts.ai-AI_Product-2563eb?style=for-the-badge" alt="Adaptivearts.ai"/></a>
@@ -20,7 +30,7 @@ These four projects provide complementary evidence across retrieval, product eng
 | Project | Problem solved | Implementation evidence | Public proof |
 |---|---|---|---|
 | **Intelligence Engine** | Makes structured source material searchable through lexical, semantic and graph retrieval rather than one search method alone | Python, FastAPI, React, TypeScript, Sigma.js, KuzuDB, LanceDB, BM25, schema-driven domains, REST and MCP | [Explore the showcase](https://fbratten.github.io/intelligence-engine-showcase/) |
-| **MADS — Multi-Agent Developer Sandbox** | Lets AI agents propose code and commands without giving them uncontrolled host access | Electron, React, TypeScript, Zod, policy-gated execution, reviewable ChangeSets, durable audit, 125 Vitest tests and 13 Electron E2E scenarios at the pinned implementation receipt | [Try the synthetic proof package](https://fbratten.github.io/mads/) |
+| **MADS - Multi-Agent Developer Sandbox** | Lets AI agents propose code and commands without giving them uncontrolled host access | Electron, React, TypeScript, Zod, policy-gated execution, reviewable ChangeSets, durable audit, 125 Vitest tests and 13 Electron E2E scenarios at the pinned implementation receipt | [Try the synthetic proof package](https://fbratten.github.io/mads/) |
 | **Adaptivearts.ai** | Turns research, editorial work and AI experiments into a deployed user-facing product | Astro, React, TypeScript, Supabase Auth and role handling, editorial workflows and an authenticated server-side Gemini provider boundary | [Read the architecture case study](https://fbratten.github.io/adaptivearts-ai/) · [Visit the product](https://adaptivearts.ai/) |
 | **Gate Monitor** | Governs long-running AI-agent sessions using deterministic policy rather than relying on the agent to self-report that everything is fine | Python, Typer, Pydantic, JSONL evidence, cost/time/progress/error thresholds, quality and memory findings, reports and MCP; source history records 279 passing tests plus three dogfood scripts | [Use the synthetic decision demonstrator](https://fbratten.github.io/gate-monitor/) |
 
@@ -46,7 +56,7 @@ The detailed source pins, verification limits and publication status are recorde
 
 ## Supporting systems
 
-### Vertex — 3D visual systems engine
+### Vertex - 3D visual systems engine
 
 A scene-driven React and Three.js engine that normalizes agents, projects, workflow runs and graph events into a shared node/edge/event model.
 
@@ -54,7 +64,7 @@ The public-safe demonstration shows synthetic agents, focus, replay, priority fi
 
 > [Explore the Vertex visual proof](https://fbratten.github.io/vertex/)
 
-### Worktrace — local-first provenance ledger
+### Worktrace - local-first provenance ledger
 
 A Python CLI and SQLite action-evidence ledger that separates observed evidence, declared project context and derived reports.
 
