@@ -194,7 +194,9 @@ My current focus is the intersection of:
 
 Occasionally the human also emits audio.
 
-I also sing and record my own material in the vocal booth of a physical recording studio, drawing on my background as a rock singer.
+I sing and record my own material in the vocal booth of a physical recording studio. I have sung in a few bands over the years, although the past few years have been quieter on that front.
+
+Singing takes regular practice, and I feel that in my own voice. I cannot always reach the higher notes or hold a note for as long as I would like. This is where AI helps me enormously in making the music I want to make.
 
 [Explore my Music & Film collection](https://fbratten.github.io/creative/) · [Studio vocals and North Star & Me](https://fbratten.github.io/creative/#own-vocals)
 
