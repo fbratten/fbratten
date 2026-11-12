@@ -137,6 +137,17 @@ approved public sources
 
 The prototype is AI-assisted and human-reviewed. It is not presented as an autonomous newsroom or as permission to reproduce copyrighted source articles.
 
+<p>
+  <a href="https://fbratten.github.io/creative/#newsroom"><img src="assets/news-room-pipeline.jpg" alt="Concept illustration of the news-room production and editorial review workflow" width="720" /></a>
+</p>
+<p><em>Production concept: sources, scripts, voice, visuals and a planned YouTube distribution stage.</em></p>
+<p>
+  <a href="https://fbratten.github.io/creative/#newsroom"><img src="assets/news-room-ingestion-control-center.jpg" alt="Operator-interface design showing the source registry and ingestion policy gate" width="720" /></a>
+</p>
+<p><em>Operator-interface design: approved sources, manual review and blocked inputs.</em></p>
+
+[Explore the illustrated newsroom workflow](https://fbratten.github.io/creative/#newsroom)
+
 ---
 
 ## How I approach AI engineering
@@ -182,6 +193,10 @@ My current focus is the intersection of:
 ## Personal side quest: music
 
 Occasionally the human also emits audio.
+
+I also sing and record my own material in the vocal booth of a physical recording studio, drawing on my background as a rock singer.
+
+[Explore my Music & Film collection](https://fbratten.github.io/creative/) · [Studio vocals and North Star & Me](https://fbratten.github.io/creative/#own-vocals)
 
 🎧 [Spotify artist profile](https://open.spotify.com/artist/0c5DZx6gt2uBkDkkChERGC)
 
