@@ -56,6 +56,12 @@ The detailed source pins, verification limits and publication status are recorde
 
 ## Supporting systems
 
+### AgentRadar - activity across agent teams
+
+AgentRadar shows what lead agents and their subagents report across projects, machines and runtimes. In the public demo, follow a collaboration between lead agents or open a swarm to see which task is waiting for approval. English and Swedish replay the same fictional session in the browser.
+
+> [Explore AgentRadar](https://fbratten.github.io/agentradar/) · [English demo](https://fbratten.github.io/agentradar-showcase/en/) · [Demo på svenska](https://fbratten.github.io/agentradar-showcase/)
+
 ### Vertex - 3D visual systems engine
 
 A scene-driven React and Three.js engine that normalizes agents, projects, workflow runs and graph events into a shared node/edge/event model.
