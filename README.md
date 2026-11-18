@@ -58,7 +58,7 @@ The detailed source pins, verification limits and publication status are recorde
 
 ### AgentRadar - activity across agent teams
 
-AgentRadar shows what lead agents and their subagents report across projects, machines and runtimes. In the public demo, follow a collaboration between lead agents or open a swarm to see which task is waiting for approval. English and Swedish replay the same fictional session in the browser.
+AgentRadar shows what lead agents and their subagents report across projects, machines and runtimes. In the public demo, follow a collaboration between lead agents or open a swarm to see which task is waiting for approval. Both languages replay the same session recorded in AgentRadar v0.4, but all agents, projects and machines are fictional.
 
 > [Explore AgentRadar](https://fbratten.github.io/agentradar/) · [English demo](https://fbratten.github.io/agentradar-showcase/en/) · [Demo på svenska](https://fbratten.github.io/agentradar-showcase/)
 
